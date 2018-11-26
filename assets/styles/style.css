@@ -10,7 +10,7 @@ body {
 
 /*first */
 h1 {
-	color: black;
+	color: blue;
 	font-size: 80px;
 	font-weight: normal;
 	margin-bottom: 0;}
@@ -21,7 +21,7 @@ margin-top:0;}
 /*Third*/
 .bio {
 	color: black;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 /*Fourth*/
