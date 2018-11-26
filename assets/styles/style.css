@@ -1,0 +1,34 @@
+body {
+	background:url(../images/one.jpeg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+}
+
+/*first */
+h1 {
+	color: black;
+	font-size: 80px;
+	font-weight: normal;
+	margin-bottom: 0;}
+/*second*/
+h2{color:black;
+	font-size: 40px;
+margin-top:0;}
+/*Third*/
+.bio {
+	color: black;
+	font-size: 20px;
+}
+
+/*Fourth*/
+.me {
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
