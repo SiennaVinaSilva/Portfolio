@@ -52,6 +52,7 @@ background: url(../images/bg1.jpeg) center center no-repeat;
 .main-heading{
 color: #000000;
 text-align: center;
+font-size: 150px;
 }
 
 #name{
@@ -195,6 +196,12 @@ padding: 40px;
 
 .skills{
 	width: 300px;
+}
+
+.main-heading{
+color: #000000;
+text-align: center;
+font-size: 60px;
 }
 
 
